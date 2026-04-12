@@ -3,23 +3,23 @@ import { motion, AnimatePresence } from "framer-motion";
 
 // Tech stack data
 const techstack = [
-  { id: 1, name: "React", category: "Frontend", level: "Advanced", src: "https://cdn.simpleicons.org/react/61DAFB", color: "#61DAFB" },
-  { id: 2, name: "Next.js", category: "Fullstack", level: "Advanced", src: "https://cdn.simpleicons.org/nextdotjs/000000", color: "#000000" },
+  { id: 1, name: "React", category: "Frontend", level: "Intermediate", src: "https://cdn.simpleicons.org/react/61DAFB", color: "#61DAFB" },
+  { id: 2, name: "Next.js", category: "Fullstack", level: "Intermediate", src: "https://cdn.simpleicons.org/nextdotjs/000000", color: "#000000" },
   { id: 3, name: "TypeScript", category: "Language", level: "Advanced", src: "https://cdn.simpleicons.org/typescript/3178C6", color: "#3178C6" },
-  { id: 4, name: "Tailwind CSS", category: "Frontend", level: "Expert", src: "https://cdn.simpleicons.org/tailwindcss/06B6D4", color: "#06B6D4" },
-  { id: 5, name: "Node.js", category: "Backend", level: "Advanced", src: "https://cdn.simpleicons.org/nodedotjs/339933", color: "#339933" },
+  { id: 4, name: "Tailwind CSS", category: "Frontend", level: "Advanced", src: "https://cdn.simpleicons.org/tailwindcss/06B6D4", color: "#06B6D4" },
+  { id: 5, name: "Node.js", category: "Backend", level: "Intermediate", src: "https://cdn.simpleicons.org/nodedotjs/339933", color: "#339933" },
   { id: 6, name: "MongoDB", category: "Database", level: "Intermediate", src: "https://cdn.simpleicons.org/mongodb/47A248", color: "#47A248" },
-  { id: 7, name: "Git", category: "Tools", level: "Expert", src: "https://cdn.simpleicons.org/git/F05032", color: "#F05032" },
+  { id: 7, name: "Git", category: "Tools", level: "Intermediate", src: "https://cdn.simpleicons.org/git/F05032", color: "#F05032" },
   { id: 8, name: "Docker", category: "DevOps", level: "Intermediate", src: "https://cdn.simpleicons.org/docker/2496ED", color: "#2496ED" },
-  { id: 9, name: "AWS", category: "Cloud", level: "Intermediate", src: "https://logo.svgcdn.com/logos/aws.svg", color: "#FF9900" },
+  { id: 9, name: "AWS", category: "Cloud", level: "Advanced", src: "https://logo.svgcdn.com/logos/aws.svg", color: "#FF9900" },
   { id: 10, name: "GraphQL", category: "Backend", level: "Intermediate", src: "https://cdn.simpleicons.org/graphql/E10098", color: "#E10098" },
-  { id: 11, name: "Redux", category: "Frontend", level: "Advanced", src: "https://cdn.simpleicons.org/redux/764ABC", color: "#764ABC" },
+  { id: 11, name: "Redux", category: "Frontend", level: "Inteermediate", src: "https://cdn.simpleicons.org/redux/764ABC", color: "#764ABC" },
   { id: 12, name: "Figma", category: "Design", level: "Intermediate", src: "https://cdn.simpleicons.org/figma/F24E1E", color: "#F24E1E" },
   { id: 13, name: "PostgreSQL", category: "Database", level: "Intermediate", src: "https://cdn.simpleicons.org/postgresql/4169E1", color: "#4169E1" },
-  { id: 14, name: "Python", category: "Language", level: "Advanced", src: "https://cdn.simpleicons.org/python/3776AB", color: "#3776AB" },
+  { id: 14, name: "Python", category: "Language", level: "Intermediate", src: "https://cdn.simpleicons.org/python/3776AB", color: "#3776AB" },
   { id: 15, name: "Vue.js", category: "Frontend", level: "Intermediate", src: "https://cdn.simpleicons.org/vuedotjs/4FC08D", color: "#4FC08D" },
   { id: 16, name: "PHP", category: "Language", level: "Intermediate", src: "https://cdn.simpleicons.org/php/777BB4", color: "#777BB4" },
-  { id: 17, name: "Laravel", category: "Backend", level: "Advanced", src: "https://cdn.simpleicons.org/laravel/FF2D20", color: "#FF2D20" },
+  { id: 17, name: "Laravel", category: "Backend", level: "Intermediate", src: "https://cdn.simpleicons.org/laravel/FF2D20", color: "#FF2D20" },
 ];
 
 const FALLBACK_PLACEHOLDER =

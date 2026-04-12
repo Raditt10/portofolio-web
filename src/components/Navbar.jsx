@@ -15,7 +15,6 @@ const Navbar = () => {
   
   const isLight = themeMode === 'light';
 
-  // --- THEME SYNC ---
   useEffect(() => {
     const updateTheme = () => {
         const current = document.documentElement.getAttribute("data-theme") || "dark";
