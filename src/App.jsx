@@ -8,6 +8,7 @@ import Opening from './components/Opening';
 import CustomCursor from './components/CustomCursor';
 import NotFound from './components/NotFound';
 import LazyMount from './components/LazyMount';
+import GitHubContributions from './components/GitHubContributions';
 const Gallery = lazy(() => import('./components/Gallery'));
 const Educations = lazy(() => import('./components/Educations'));
 const Projetcs = lazy(() => import('./components/Projetcs'));
@@ -67,6 +68,9 @@ function App() {
             </LazyMount>
             <LazyMount height={600}>
               <Suspense fallback={<div style={{height:600}} />}> <Projetcs /> </Suspense>
+            </LazyMount>
+            <LazyMount height={420}>
+              <GitHubContributions />
             </LazyMount>
             <LazyMount height={600}>
               <Suspense fallback={<div style={{height:600}} />}> <Achievements /> </Suspense>

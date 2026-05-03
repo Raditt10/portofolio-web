@@ -227,12 +227,12 @@ const navlinks = [
   },
   {
     id: 3,
-    text: "My Gallery",
+    text: "Gallery",
     link: "#gallery"
   },
   {
     id: 4,
-    text: "My Educations",
+    text: "Educations",
     link: "#educations"
   },
   {
@@ -242,16 +242,24 @@ const navlinks = [
   },
   {
     id: 6,
+    text: "GitHub",
+    link: "#github"
+  },
+  {
+    id: 7,
     text: "Achievements",
     link: "#achievements"
   },
   {
-    id: 7,
+    id: 8,
     text: "Contact Me",
     link: "#contact"
   },
   
 ]
+
+const GITHUB_USERNAME = "Raditt10";
+const GITHUB_PROFILE_URL = `https://github.com/${GITHUB_USERNAME}`;
 
 const techstack = [
   {
@@ -497,5 +505,5 @@ const dataCerti = [
   },
 
 ]
-export {navlinks, techstack,projectsData, dataCerti}
+export { navlinks, techstack, projectsData, dataCerti, GITHUB_USERNAME, GITHUB_PROFILE_URL }
 
