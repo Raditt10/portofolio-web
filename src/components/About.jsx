@@ -181,13 +181,13 @@ const About = () => {
                         Rafaditya Syahputra
                     </h2>
                     <p className={`text-lg md:text-xl font-medium tracking-wide ${isLight ? 'text-gray-500' : 'text-gray-400'}`}>
-                        Front End Developer
+                        Full Stack Developer
                     </p>
                 </div>
 
                 <div className={`space-y-6 text-base md:text-lg leading-relaxed ${isLight ? 'text-gray-700' : 'text-gray-300'}`}>
                     <p>
-                        Hao! Saya Rafaditya Syahputra, seorang Front End Developer dengan passion dalam menciptakan solusi digital yang inovatif dan efisien. 
+                        Halo! Saya Rafaditya Syahputra, seorang Full Stack Developer dengan passion dalam menciptakan solusi digital yang inovatif dan efisien. 
                         Dengan pengalaman lebih dari 2 tahun, saya fokus membangun aplikasi web yang fungsional dengan antarmuka yang bersih.
                     </p>
                     <p>
