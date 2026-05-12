@@ -497,12 +497,20 @@ const dataCerti = [
     link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
   },
 
-    {
+  {
     id: 10,
     gambar: "aws.png",
     judul : "AWS Cloud Practitioner Essentials (Fundamental Level)",
     link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
   },
+
+  {
+    id: 11,
+    gambar: "ed.png",
+    judul : "Awarded as an accomplishment of TOEIC Excellence Program",
+    link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
+  },
+
 
 ]
 export { navlinks, techstack, projectsData, dataCerti, GITHUB_USERNAME, GITHUB_PROFILE_URL }
