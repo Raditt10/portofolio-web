@@ -436,77 +436,77 @@ const projectsData = [
 const dataCerti = [
   {
     id: 1,
-    gambar: "machung.png",
+    gambar: "machung.webp",
     judul : "Participation in POSTER MAKER (Machung School)",
     link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
   },
 
   {
     id: 2,
-    gambar: "informatika.png",
+    gambar: "informatika.webp",
     judul : "1st Place in ISO ( Indonesian Science Olympiad ) Informatika Subject",
     link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
   },
 
   {
     id: 3,
-    gambar: "UPT.jpg",
+    gambar: "UPT.webp",
     judul : "Participation in POSTER MAKER UPT",
     link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
   },
 
   {
     id: 4,
-    gambar: "jhic.png",
+    gambar: "jhic.webp",
     judul : "Semi finalist in Competition and Bootcamp JHIC",
     link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
   },
 
   {
     id: 5,
-    gambar: "samsung.jpg",
+    gambar: "samsung.webp",
     judul : "Participation in Bootcamp digital marketing Samsung Indonesia Tech Institute",
     link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
   },
 
   {
     id: 6,
-    gambar: "dicoding.png",
+    gambar: "dicoding.webp",
     judul : "Participation in Basic AI in Bootcamp Dicoding",
     link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
   },
 
     {
     id: 7,
-    gambar: "indo.png",
+    gambar: "indo.webp",
     judul : "1st Place ISSC (Indonesian Student Science Competition)",
     link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
   },
   
    {
     id: 8,
-    gambar: "sejarah.png",
+    gambar: "sejarah.webp",
     judul : "2nd Place OSNK in History Subject 2025",
     link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
   },
 
   {
     id: 9,
-    gambar: "ruangguru.jpg",
+    gambar: "ruangguru.webp",
     judul : "Participation in Event KSR 2025 By Ruangguru",
     link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
   },
 
   {
     id: 10,
-    gambar: "aws.png",
+    gambar: "aws.webp",
     judul : "AWS Cloud Practitioner Essentials (Fundamental Level)",
     link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
   },
 
   {
     id: 11,
-    gambar: "ed.png",
+    gambar: "ed.webp",
     judul : "Awarded as an accomplishment of TOEIC Excellence Program",
     link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
   },
