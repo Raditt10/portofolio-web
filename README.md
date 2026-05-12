@@ -6,18 +6,15 @@
 ![GSAP](https://img.shields.io/badge/GSAP-GreenSock-88CE02?style=flat&logo=greensock&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**Personal Portfolio** adalah website interaktif yang dirancang untuk menampilkan profil profesional, keahlian teknis, pengalaman, serta koleksi proyek yang telah dikerjakan oleh **Rafaditya Syahputra**. Website ini dibangun dengan fokus pada performa tinggi, animasi yang halus, dan tampilan yang responsif.
-
 ## 📌 Deskripsi Project
 Website ini berfungsi sebagai identitas digital (personal branding) yang memuat:
-* **Showcase Project:** Galeri proyek-proyek unggulan seperti *Kul-Kul*, *Irmaverse*, dan lainnya.
+* **Showcase Project:** Galeri proyek-proyek unggulan yang saya kerjakan.
 * **Informasi Profesional:** Riwayat pendidikan, pencapaian kompetisi, dan sertifikasi.
 * **Tech Stack:** Visualisasi teknologi dan tools yang dikuasai.
 * **Kontak:** Sarana bagi pengunjung untuk mengunduh CV atau menghubungi via media sosial.
 
 ## 🛠️ Tech Stack
 Teknologi modern yang digunakan dalam pengembangan:
-
 * **Frontend Framework:** React.js
 * **Build Tool:** Vite
 * **Styling:** Tailwind CSS (untuk layout responsif dan modern)
