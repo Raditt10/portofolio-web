@@ -218,7 +218,7 @@ const About = () => {
                 {/* CTA Button */}
                 <div className="pt-6 flex justify-center lg:justify-start">
                     <a
-                        href="/file/Rafaditya Syahputra_CV.pdf"
+                        href="/file/CV_Rafaditya_Syahputra2026.pdf"
                         download
                         className={`group relative inline-flex items-center justify-center px-8 py-3.5 text-base font-bold tracking-wide transition-all duration-300 rounded-full overflow-hidden ${
                             isLight 
