@@ -510,6 +510,12 @@ const dataCerti = [
     judul : "Awarded as an accomplishment of TOEIC Excellence Program",
     link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
   },
+  {
+    id: 12,
+    gambar: "itsoft_lkskota.jpg",
+    judul : "Winner in The Competition IT SOFTWARE SOLUTION FOR BUSINESS in LKS Kota Bandung 2026",
+    link: "https://drive.google.com/drive/folders/1lQhCp73UNCH-Ky69UEpVG6vwcLmMPa2v"
+  }
 
 
 ]
